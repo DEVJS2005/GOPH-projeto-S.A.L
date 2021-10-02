@@ -1,0 +1,13 @@
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.exe
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.deps.json
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.runtimeconfig.json
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.runtimeconfig.dev.json
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.dll
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\bin\Debug\netcoreapp3.1\Lsuta automatica.pdb
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.AssemblyInfoInputs.cache
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.AssemblyInfo.cs
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.dll
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.pdb
+C:\Users\tarde.cetcc\Desktop\JOAO VICTOR EMIDESAM\Lsuta automatica\Lsuta automatica\obj\Debug\netcoreapp3.1\Lsuta automatica.genruntimeconfig.cache
