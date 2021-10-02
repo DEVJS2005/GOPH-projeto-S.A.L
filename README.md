@@ -23,4 +23,4 @@ interface grafica.
 
 
 
-![image](https://drive.google.com/file/d/1ql4FoYc17lfK67gZGAKpDHT08KOpKOnl/view?usp=sharing)
+![image](https://github.com/DEVJS2005/GOPH-projeto-S.A.L/blob/main/Projeto%20S.A.L.jpg)
