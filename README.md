@@ -10,8 +10,9 @@ S.A.L é a sigla para Sistema automatico de listas, criado pelo atual Vice-presi
 Auxiliar os comandantes de lista a gerar sua lista automaticamente apenas preenchendo campos.
 
 Objetivos para o futuro:
-*Automação do preenchimento das aliadas no fim da lista.
-*interface grafica.
+
+Automação do preenchimento das aliadas no fim da lista.
+interface grafica.
 
 
 **Projeto ainda em curso, mas pode esperar que por ai vem mais.**
