@@ -7,7 +7,7 @@
 
 S.A.L é a sigla para Sistema automatico de listas, criado pelo atual Vice-presidente Deadpool533 ou JS.
 
-##Objetivo:
+## Objetivo:
 
 Auxiliar os comandantes de lista a gerar sua lista automaticamente apenas preenchendo campos.
 
