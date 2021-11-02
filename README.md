@@ -1,5 +1,5 @@
 # GOPH projeto S.A.L
-###Criado com intuito de ajudar nas listas do GOPH
+### Criado com intuito de ajudar nas listas do GOPH
 
 
 
@@ -7,7 +7,7 @@
 
 S.A.L é a sigla para Sistema automatico de listas, criado pelo atual Vice-presidente Deadpool533 ou JS.
 
-##Objetivo:
+## Objetivo:
 
 Auxiliar os comandantes de lista a gerar sua lista automaticamente apenas preenchendo campos.
 
@@ -23,4 +23,4 @@ interface grafica.
 
 
 
-![image](https://drive.google.com/file/d/1ql4FoYc17lfK67gZGAKpDHT08KOpKOnl/view?usp=sharing)
+![image](https://github.com/DEVJS2005/GOPH-projeto-S.A.L/blob/main/Projeto%20S.A.L.jpg)
