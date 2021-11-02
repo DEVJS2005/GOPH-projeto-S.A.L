@@ -1,0 +1,35 @@
+Boa noite pessoal!
+Vim hoje apresentar para os mesmo o projeto S.A.L(Sistema Automático de Lista).
+
+O S.A.L foi criado com intuito de ajudar na automação do processo de criação das listas sendo uma ferramenta 
+para o processo de criação sem subistituir o método convencional. 
+
+Programado em C#(C-sharp) e projetado e automatizado em uns 4 dias. 
+
+visando o conforto na criação das listas paras o comandantes solo,aqueles que comandam e fazem a lista.
+
+Para a criação basta apenas:
+fazer um rascunho no bloco de notas
+ex:
+{
+Nick: aliadas visistada(separadas por vírgula)
+
+e ao final os nomes das aliadas um sobre o outro.
+
+copia e cola no programa e é só ser feliz.
+}
+Eu criarei um vídeo atualizado para a demonstração e enviarei ao grupo dos funcionários agora! 
+
+O arquivo vai diretamente para a área de trabalho e é só copiar e colar toda a lista no site da GOPH e enviar.
+
+OBS:O programa é rodado no CMD e não em uma Interface gráfica porquê até o momento não vi um motivo sólido, 
+mas ja está sendo planejado por mim acrescentar essa tecnologia.
+
+Antes de concluir queria deixar o meu agradecimento aos seguintes funcionários, pelo apoio no projeto:
+Diretor ==Leonardo==1, vulgo:Mídia
+Administrador Hooks
+Vice presidente Alllokko
+Co.fundador Gus@!
+Supremo I. Ob:Souza:do
+
+Obrigado pela atenção e a paciência! Abraço a todos.

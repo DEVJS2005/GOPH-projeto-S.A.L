@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive\Documentos\ALL-Scripts\C#\Lista GOPH\Lsuta automatica\bin\publish\Lista_automatica01.exe
+C:\Users\Usuario\OneDrive\Documentos\ALL-Scripts\C#\Lista GOPH\Lsuta automatica\bin\publish\Lista_automatica01.dll
+C:\Users\Usuario\OneDrive\Documentos\ALL-Scripts\C#\Lista GOPH\Lsuta automatica\bin\publish\Lista_automatica01.deps.json
+C:\Users\Usuario\OneDrive\Documentos\ALL-Scripts\C#\Lista GOPH\Lsuta automatica\bin\publish\Lista_automatica01.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\ALL-Scripts\C#\Lista GOPH\Lsuta automatica\bin\publish\Lista_automatica01.pdb
