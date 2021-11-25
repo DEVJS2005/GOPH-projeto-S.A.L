@@ -117,7 +117,7 @@ namespace Lista_automatica
                             break;
                     }
 
-                    lista.WriteLine("data:" + data);
+                    lista.WriteLine("Data:" + data);
                     lista.WriteLine("Turno:tarde");
                     lista.WriteLine("Ciclo:" + ciclon);
                     lista.WriteLine("Código: 01");
