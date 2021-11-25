@@ -5,7 +5,7 @@
 
 ## Oque é o projeto S.A.L:
 
-S.A.L é a sigla para Sistema automatico de listas, criado pelo atual Vice-presidente Deadpool533 ou JS.
+S.A.L é a sigla para Sistema automatico de listas, criado pelo atual Co.Fundador Deadpool533/JS.
 
 ## Objetivo:
 
