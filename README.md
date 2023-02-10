@@ -18,7 +18,7 @@ Automação do preenchimento das aliadas no fim da lista.
 interface grafica.
 
 
-**Projeto ainda em curso, mas pode esperar que por ai vem mais.**
+**Projeto ainda em curso, mas pode esperar que por ai, vem mais.**
 **_-stand-by_**
 
 
